@@ -1,0 +1,10 @@
+* Improvements
+** ONGOING Switch bowtie2 for hisat2
+** TODO Add Salmon for quantification
+** TODO Web side [/]
+- [ ] Dropdown menus for blat custom
+
+  Show "No uploaded custom database" in the dropdown menu when the
+  case. 
+
+* Bugs
